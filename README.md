@@ -2,11 +2,20 @@
 Layer English version - just for people work for English language project!
 
 ## Translation Items
-buttons:
+1. buttons:
+btn: ["&#x786E;&#x5B9A;", "&#x53D6;&#x6D88;"] changes to btn: ["Ok", "Cancel"]
+btn: ["&#x4E0B;&#x4E00;&#x5F20;", "&#x4E0D;&#x770B;&#x4E86;"] changes to btn: ["Next", "Cancel"]
+2. title: 
+title: "&#x4FE1;&#x606F;" changes to title: "Message"
 
-title:
+3. tips:
+r.tips("&#x6700;&#x591A;&#x8F93;&#x5165;" changes to r.tips("Input up to"
+"&#x4E2A;&#x5B57;&#x6570;" changes to "characters"
 
-tips:
+4. msg
+r.msg("&#x6CA1;&#x6709;&#x56FE;&#x7247;") changes to r.msg("No Photo")
+r.msg("&#x5F53;&#x524D;&#x56FE;&#x7247;&#x5730;&#x5740;&#x5F02;&#x5E38;<br>&#x662F;&#x5426;&#x7EE7;&#x7EED;&#x67E5;&#x770B;&#x4E0B;&#x4E00;&#x5F20;&#xFF1F;" changes to r.msg("Bad photo url!<br>Do you want to see next one?"
+
 # 关于
 丰富多样的Web弹出层组件，可轻松实现Alert/Confirm/Prompt/普通提示/页面区块/iframe/tips等等几乎所有的弹出交互。目前已成为最多人使用的弹层解决方案 http://layer.layui.com
 
