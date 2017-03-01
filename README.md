@@ -10,6 +10,7 @@ title: "&#x4FE1;&#x606F;" changes to title: "Message"
 
 3. tips:
 r.tips("&#x6700;&#x591A;&#x8F93;&#x5165;" changes to r.tips("Input up to"
+
 "&#x4E2A;&#x5B57;&#x6570;" changes to "characters"
 
 4. msg
